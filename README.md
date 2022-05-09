@@ -4,7 +4,7 @@ Hi 👋 My name is Michael Piu
 Junior Java Back-End Developer
 ------------------------------
 
-IT : Sono un ragazzo di 24 anni, ho da poco svolto il corso Epicode per l'apprendimento dello sviluppo di tecnologie Web per la creazione di applicativi usando Java e Spring Boot. Mi piace mettermi alla prova, per questo motivo non smetto mai di studiare e approfondire tecnologie nuove! EN: I'm a 24 years old guy, I've recently done the Epicode course for learning how to develop Web technologies for creating applications using Java and Spring Boot. I like to challenge myself, that's why I never stop studying and learning new technologies!
+IT : Sono un ragazzo di 24 anni, ho da poco svolto il corso Epicode per l'apprendimento dello sviluppo di tecnologie Web per la creazione di applicativi usando Java e Spring Boot. Mi piace mettermi alla prova, per questo motivo non smetto mai di studiare e approfondire tecnologie nuove! </br> EN: I'm a 24 years old guy, I've recently done the Epicode course for learning how to develop Web technologies for creating applications using Java and Spring Boot. I like to challenge myself, that's why I never stop studying and learning new technologies!
 
 * 🌍  I'm based in Milano
 * ✉️  You can contact me at [piu.michael98@gmail.com](mailto:piu.michael98@gmail.com)
