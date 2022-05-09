@@ -10,6 +10,9 @@ IT : Sono un ragazzo di 24 anni, ho da poco svolto il corso Epicode per l'appren
 * ✉️  You can contact me at [piu.michael98@gmail.com](mailto:piu.michael98@gmail.com)
 * 🧠  I'm learning Python, HTML, CSS, Javascript
 
+<a href="https://www.github.com/MichaelPiu" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MichaelPiu?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
+
 ### Skills
 
 <p align="left">
